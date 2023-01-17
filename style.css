@@ -1,0 +1,58 @@
+
+    .body{
+        margin: 0;
+    }
+    .header{
+        background-color: #f1f1f1;
+        padding: 2px;
+        text-align: center;
+        text-decoration: none;
+        overflow: hidden;
+        font-size: 50px;
+    }
+    .topnav{
+        overflow: hidden;
+        background-color: #333;
+        font-size: 28px;
+    }
+    .topnav a{
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 20px 26px;
+        text-decoration: none;
+    }
+    .topnav a:hover{
+        background-color: #ddd;
+        color: black;
+    }
+    .footer{
+        background-color: #f1f1f1;
+        padding: 60px;
+        text-align: center;
+    }
+    .text{
+        background-color: #f1f1f1;
+        padding: 20px;
+        text-align: center;
+        font-size: 36px;
+    }
+    .button_back{
+        background-color: #f1f1f1;
+        padding: 20px;
+        text-align: center;
+    }
+    a{
+        color:none
+    }
+    .button{
+        background-color: #f3e51f; /* yellow */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 32px;
+                    }
